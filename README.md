@@ -50,4 +50,4 @@ Foi utilizado o **ChatGPT** como ferramenta de apoio durante o desenvolvimento d
 
 Conversa utilizada:
 
-[ChatGPT](https://chatgpt.com/share/6aab0c63-085c-83e9-83d0-6e5d5e1e7602?utm_source=chatgpt.com)
+[ChatGPT](https://chatgpt.com/share/6aab0e5c-d8b8-83e9-a6e0-14300ee24f45)
